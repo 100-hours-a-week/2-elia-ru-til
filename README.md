@@ -15,3 +15,5 @@ Elia's TIL (Today I Learned)
 25.02.11 Tue (상세내역링크)
 
 25.02.12 Wed [상세내역링크](https://github.com/100-hours-a-week/2-elia-ru-til/blob/86e97d80eed89ec111260f123a79424fae399e44/2%EC%9B%94/250212.md)
+
+25.02.14 Fri [상세내역링크](https://github.com/100-hours-a-week/2-elia-ru-til/blob/33d5c7507723a797ddb1989f323bf17d508dc941/2%EC%9B%94/250214.md)
